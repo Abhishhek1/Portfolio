@@ -125,3 +125,12 @@ nav ul li a:hover::before {
     grid-gap: 40px;
     margin-top: 50px;
 }
+
+#footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    bottom: 0;
+}
